@@ -1,0 +1,8 @@
+﻿# ignore eclipse
+.classpath
+.project
+.settings
+
+# ignore gradle
+.gradle
+build
