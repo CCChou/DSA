@@ -4,12 +4,12 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-public class ArrayListTest {
-    private ArrayList<String> list;
+public class LinkedListTest {
+    private LinkedList<String> list;
     
     @Before
     public void setUp() {
-        list = new ArrayList<>();
+        list = new LinkedList<>();
     }
     
     @Test
